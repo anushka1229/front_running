@@ -1,0 +1,9 @@
+﻿<Application x:Class="Front_Running.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Front_Running"
+             StartupUri="IntroPage.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
